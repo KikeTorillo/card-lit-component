@@ -20,10 +20,10 @@ this web component use a Relative length unit REM so it is necesary to reset de 
 
 ## How to set the attributes and color in the component  
 
---card-color: this is the variable that allow to changue the color of the card
-img: with this attribute you can set the image of the card
-title: with this attribute you can set the title of the card
-subtitle: with this attribute you set the subtitle of the card
+- --card-color: this is the variable that allow to changue the color of the card
+- img: with this attribute you can set the image of the card
+- title: with this attribute you can set the title of the card
+- subtitle: with this attribute you set the subtitle of the card
 
 ```html
 <!DOCTYPE html>
