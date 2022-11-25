@@ -17,15 +17,18 @@ export class CardLit extends LitElement {
   }
 
   static styles = css`
-  *{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
+    :host {
+      --card-color: #00c6ae;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
     .card {
       width: 32.7rem;
       height: 18.4rem;
-      background: #00c6ae;
+      background: var(--card-color);
       border: 2px solid #18191f;
       border-radius: 16px;
       position: relative;
@@ -51,7 +54,7 @@ export class CardLit extends LitElement {
     .subtitle {
       color: #d6fcf7;
       font-size: 1.7rem;
-      margin-top: .8rem;
+      margin-top: 0.8rem;
       font-weight: 700;
     }
 
