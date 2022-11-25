@@ -42,13 +42,13 @@ export class CardLit extends LitElement {
       top: 24px;
     }
 
-    .name {
+    .title {
       width: 186px;
       height: 28px;
       font-size: 2.4rem;
     }
 
-    .status {
+    .subtitle {
       color: #d6fcf7;
       font-size: 1.7rem;
       margin-top: .8rem;
