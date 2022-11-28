@@ -2,9 +2,9 @@
 
 This is a card component made with lit
 
-![](https://github.com/KikeTorillo/imagenes/blob/main/card.png?raw=true)
+![](https://raw.githubusercontent.com/KikeTorillo/imagenes/main/card.png?token=GHSAT0AAAAAAB3XW4DEN54TS6ZL5SVPO5ASY4FFK4Q)
 
-![](https://github.com/KikeTorillo/imagenes/blob/main/card2.png?raw=true)
+![](https://raw.githubusercontent.com/KikeTorillo/imagenes/main/card2.png?token=GHSAT0AAAAAAB3XW4DEW6E6XCOIAC6RCAXOY4FFLFA)
 
 ## How to install
 
@@ -49,3 +49,4 @@ this web component use a Relative length unit REM so it is necesary to reset de 
 </body>
 </html>
 ```
+###End
