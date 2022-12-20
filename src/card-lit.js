@@ -46,8 +46,7 @@ export class CardLit extends LitElement {
     }
 
     .title {
-      width: 186px;
-      height: 28px;
+      width: 17rem;
       font-size: 2.4rem;
     }
 
